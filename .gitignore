@@ -1,0 +1,7 @@
+.idea
+.vscode
+
+.env
+*.torrent
+*.log
+vendor
