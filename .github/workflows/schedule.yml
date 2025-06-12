@@ -31,7 +31,7 @@ jobs:
 
             -   name: Commit changelog
                 run: |
-                    git checkout master
+                    git checkout main
                     git config --local user.name 'belomaxorka'
                     git config --local user.email 'roman25052006.kelesh@gmail.com'
                     set +e
