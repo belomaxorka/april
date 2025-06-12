@@ -1,0 +1,26 @@
+{
+    "name": "belomaxorka/april",
+    "type": "project",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "homepage": "https://github.com/belomaxorka/april",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "belomaxorka",
+            "email": "roman25052006.kelesh@gmail.com",
+            "homepage": "https://belomaxorka.github.io/",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=8.1"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.4"
+    },
+    "config": {
+        "sort-packages": true,
+        "optimize-autoloader": true
+    }
+}

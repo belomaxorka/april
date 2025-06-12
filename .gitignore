@@ -4,4 +4,5 @@
 .env
 *.torrent
 *.log
+*.phar
 vendor
