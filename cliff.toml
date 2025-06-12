@@ -22,7 +22,7 @@ body = """
 {%- endmacro -%}
 
 {%- macro nightly_url() -%}
-  https://nightly.link/{{ remote.github.owner }}/{{ remote.github.repo }}/workflows/build/main/April-nightly
+  https://nightly.link/{{ remote.github.owner }}/{{ remote.github.repo }}/workflows/build/ci/April-nightly
 {%- endmacro -%}
 
 {% macro print_commit(commit) -%}
