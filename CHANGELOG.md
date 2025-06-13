@@ -1,9 +1,10 @@
 # 📖 Changelog
 
-## [nightly](https://nightly.link/belomaxorka/april/workflows/build/ci/April-nightly)
+## [nightly](https://nightly.link/belomaxorka/april/workflows/ci/main/April-nightly)
 
 ### ⚙️ Miscellaneous
 
+- *(cliff.toml)* Fixed incorrect nightly url ([#7](https://github.com/belomaxorka/april/pull/7)) - ([537c85f](https://github.com/belomaxorka/april/commit/537c85f83bbbfc86e6de3c93b2740eefad414510))
 - *(cliff.toml)* Changed workflow name to correct ([#4](https://github.com/belomaxorka/april/pull/4)) - ([066762d](https://github.com/belomaxorka/april/commit/066762d38055faa6b1ab72e4db4c21303571b6b3))
 - *(cliff.toml)* Changed name for main branch ([#3](https://github.com/belomaxorka/april/pull/3)) - ([f42d61d](https://github.com/belomaxorka/april/commit/f42d61d954c1222a98a404a2ff2a8bc73b6387c0))
 - Added dependabot configuration ([#6](https://github.com/belomaxorka/april/pull/6)) - ([ade961a](https://github.com/belomaxorka/april/commit/ade961aebc6117c1c84c2c7f2e481552b5cf0344))
@@ -13,6 +14,6 @@
 
 ## New Contributors ❤️
 
-* @belomaxorka made their first contribution in [#6](https://github.com/belomaxorka/april/pull/6)
+* @belomaxorka made their first contribution in [#7](https://github.com/belomaxorka/april/pull/7)
 
 
