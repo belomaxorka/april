@@ -14,6 +14,6 @@
 
 ## New Contributors ❤️
 
-* @belomaxorka made their first contribution in [#7](https://github.com/belomaxorka/april/pull/7)
+* @belomaxorka made their first contribution
 
 
